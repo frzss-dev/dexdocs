@@ -1,2 +1,0 @@
-# Limit Orders FAQ
-
