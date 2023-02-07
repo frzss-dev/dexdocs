@@ -1,39 +1,23 @@
-# Get BEP20 Tokens
+# Get ERC20 Tokens
 
 ![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
-The native tokens of BNB Smart Chain (BSC) are **BEP20**.
+The FRZ Smart chain supports ERC20 standard tokens
 
-To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
+To do most things on FRZ, you will need to pay gas, which comes in the form of FRZSS.
 
-You will also need the BEP20 version of any token you want to trade, stake etc. on BSC.
+You will also need the ERC20 version of any token you want to trade, stake etc. on FRZ Smart Chain.
 
-You can go a few ways about converting your tokens to BEP20, but here are the ones we recommend:
+Some wrapped versions of popular tokens already exist on the FRZSS network. Here are some of them:\
+\
+**FRZ Pegged Bitcoin (FBTC)** - [0xc4294fbd41187C5Dd789fD6dA52e3dCE2aE5fD5C](https://explorer.frzchain.com/address/0xc4294fbd41187C5Dd789fD6dA52e3dCE2aE5fD5C)
 
-{% tabs %}
-{% tab title="🥞🌉 Pancake Bridge" %}
-****![](<../.gitbook/assets/image (1).png>)****
+**Tether USD (USDT)** - [0x3bbad3d33d9ade6e2f7e784b6231017d55f4e5b1](https://explorer.frzchain.com/address/0x3bbad3d33d9ade6e2f7e784b6231017d55f4e5b1)
 
-****[**FRZDEX Bridge**](http://bridge.FRZDEX.finance) — a native asset cross-chain bridge, powered by Stargate.
+**Wrapped FRZSS (WFRZSS)** - [0xb92e3252ead5d78ace9f5b415b71afe754136121](https://explorer.frzchain.com/address/0xb92e3252ead5d78ace9f5b415b71afe754136121)
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively FRZDEX Community and wider BNB Ecosystem!
+**FRZ Swapping (FRZW) -** [0xc9a5eb9dcd4fa12c0bc836951c7d138b23abcc97](https://explorer.frzchain.com/address/0xc9a5eb9dcd4fa12c0bc836951c7d138b23abcc97)
 
-📖 [Learn how to use](https://medium.com/FRZDEX/launching-FRZDEX-bridge-a-partnership-with-stargate-21c1c9f491a8)
-{% endtab %}
 
-{% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/FRZDEX/FRZDEX-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)&#x20;
 
-You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
-
-📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
-{% endtab %}
-
-{% tab title="🔒 SafePal" %}
-[**SafePal** ](https://safepal.io/download)
-
-You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
-
-📖 [Here's a quick guide they made to help you out.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
-{% endtab %}
-{% endtabs %}
+The FRZSS coin is also available on the Binance Smart Chain network. You can convert your FRZSS coins from the BSC network to the FRZ network using the [LBank exchange](https://www.lbank.info/)&#x20;
