@@ -6,4 +6,5 @@
   * [Get ERC20 Tokens](get-started/bep20-guide.md)
   * [How to trade](get-started/trade-guide.md)
 * [Info API](info-api.md)
+* [Smart contracts](smart-contracts.md)
 * [Contact Us](contact-us.md)
