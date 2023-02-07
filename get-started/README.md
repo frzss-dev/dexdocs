@@ -21,4 +21,4 @@ Once you have a wallet set up and connected to FRZDEX, feel free to check our ot
 \
 Check the menu for more documentation on the range of FRZDEX features and services, including more advanced guides.
 
-If you can't find what you need, feel free to visit the [FRZDEX Telegram](../contact-us/telegram.md) and ask for help there!
+If you can't find what you need, feel free to visit the [FRZDEX Telegram](broken-reference) and ask for help there!
