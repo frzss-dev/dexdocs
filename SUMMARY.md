@@ -4,13 +4,6 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get ERC20 Tokens](get-started/bep20-guide.md)
-  * [Using FRZDEX without Centralized Exchanges](get-started/using-frzdex-without-centralized-exchanges.md)
-  * [Connect Your Wallet to FRZDEX](get-started/connection-guide.md)
-* [Click Here for Help](help/README.md)
-  * [Troubleshooting Errors](help/troubleshooting.md)
-  * [General FAQ](help/faq.md)
-  * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
-  * [Binance Academy Guide](help/binance-academy-guide.md)
 * [Contact Us](contact-us/README.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
 
