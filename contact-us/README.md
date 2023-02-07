@@ -4,19 +4,14 @@
 
 #### Business Contacts
 
-### [List a Token](business-partnerships.md#exchange)
+### List a Token
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
+For Any Promotion From Frzss Team Contact:
 
-### [Apply for an IFO (Token Sale)](business-partnerships.md#ifos-token-sales)
+* i[nfo@frzss.com](mailto:info@frzss.com)
 
-### [Apply for the NFT Market](nft-market-applications.md)
+Or
 
-####
+* i[nfo@frzdex.com](mailto:info@frzdex.comf)
 
-#### Help!
-
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-FRZDEX)
-
-### [Social Communities](telegram.md)
-
+###
